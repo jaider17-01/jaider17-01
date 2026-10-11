@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/jaider17-01/jaider17-01/main/assets/jaider-banner.svg" alt="Jaider Jaimes — Software Developer" width="100%" />
   <br/><br/>
   <a href="mailto:jaiderjjaimes@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Perfil profesional-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://github.com/jaider17-01"><img src="https://img.shields.io/badge/GitHub-jaider17--01-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=jaider17-01&label=VISITAS%20AL%20PERFIL&color=168BFF&style=flat-square" alt="Visitas al perfil" />
