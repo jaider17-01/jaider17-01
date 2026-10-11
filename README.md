@@ -27,7 +27,7 @@ Proyecto de grado en desarrollo: aplicación web MVC con inicio de sesión, pane
 
 **PHP · MySQL · MVC**
 
-### UTS InfoFix
+### [UTS InfoFix](https://github.com/jaider17-01/uts-infofix-full)
 Aplicación multiplataforma para reportar y dar seguimiento a fallas en laboratorios universitarios. Incluye escaneo QR, roles y panel técnico; el proyecto está documentado con base en IEEE 830.
 
 **Flutter · Dart · Provider · Firebase**
